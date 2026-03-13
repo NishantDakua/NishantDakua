@@ -84,7 +84,7 @@ Hands-on with prototypes that move to production, emphasizing **verifiable**, **
   />
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NishantDakua&theme=darkhub&no-frame=true&margin-w=15"/>
+  <img src="https://komarev.com/ghpvc/?username=NishantDakua&label=Profile%20views&color=grey&style=flat" />
 </p>
 ---
 
