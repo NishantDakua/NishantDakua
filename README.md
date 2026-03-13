@@ -68,14 +68,14 @@ Hands-on with prototypes that move to production, emphasizing **verifiable**, **
 <p align="center">
   <img
     alt="GitHub stats"
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=NishantDakua&show_icons=true&theme=dark&hide_border=true"
   />
 </p>
 
 <p align="center">
   <img
     alt="GitHub streak"
-    src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=dark&hide_border=true"
+    src="https://github-readme-streak-stats.herokuapp.com?user=NishantDakua&theme=dark&hide_border=true"
   />
 </p>
 
