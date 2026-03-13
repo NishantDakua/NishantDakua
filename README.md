@@ -66,19 +66,23 @@ Hands-on with prototypes that move to production, emphasizing **verifiable**, **
 ## GitHub Stats
 
 <p align="center">
+  <img height="160em"
+    src="https://github-readme-stats.vercel.app/api?username=NishantDakua&show_icons=true&theme=dark&hide_border=true"/>
+  <img height="160em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NishantDakua&layout=compact&theme=dark&hide_border=true"/>
+</p>
+
+<p align="center">
   <img
-    alt="GitHub stats"
-    src="https://github-readme-stats.vercel.app/api?username=NishantDakua&show_icons=true&theme=dark&hide_border=true"
+    src="https://github-readme-streak-stats.herokuapp.com?user=NishantDakua&theme=dark&hide_border=true"
   />
 </p>
 
 <p align="center">
   <img
-    alt="GitHub streak"
-    src="https://github-readme-streak-stats.herokuapp.com?user=NishantDakua&theme=dark&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=NishantDakua&theme=github-dark&hide_border=true"
   />
 </p>
-
 ---
 
 ## Philosophy
