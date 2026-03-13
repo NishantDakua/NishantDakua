@@ -83,6 +83,9 @@ Hands-on with prototypes that move to production, emphasizing **verifiable**, **
     src="https://github-readme-activity-graph.vercel.app/graph?username=NishantDakua&theme=github-dark&hide_border=true"
   />
 </p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=NishantDakua&theme=darkhub&no-frame=true&margin-w=15"/>
+</p>
 ---
 
 ## Philosophy
