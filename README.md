@@ -1,4 +1,3 @@
-```md
 <p align="center">
   <img
     alt="Nishant Dakua — AI Engineer · Cybersecurity · DevOps · Agentic Systems"
