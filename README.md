@@ -1,7 +1,7 @@
 <p align="center">
   <img
     alt="Nishant Dakua — AI Engineer · Cybersecurity · DevOps · Agentic Systems"
-    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&duration=2500&color=FFFFFF&center=true&vCenter=true&width=820&height=80&background=00000000&lines=Nishant+Dakua+-+AI+Engineer+%C2%B7+Cybersecurity+%C2%B7+DevOps+%C2%B7+Agentic+Systems"
+    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=25&duration=2500&color=FFFFFF&center=true&vCenter=true&width=820&height=80&background=00000000&lines=Nishant+Dakua+-+AI+Engineer+%C2%B7+Cybersecurity+%C2%B7+DevOps+%C2%B7+Agentic+Systems"
   />
 </p>
 
